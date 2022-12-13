@@ -9,7 +9,7 @@ tags:
   - "Linotype"
   - "Helvetica"
   - "History of typography"
-description: "Morbi in sem quis dui placerat ornare. Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu. Cras consequat."
+description: "Morbi in sem quis dui placerat ornare. Developer Relations Engineer, GraphQL at Postman Cras consequat."
 socialImage: "./media/cherry.jpg"
 ---
 

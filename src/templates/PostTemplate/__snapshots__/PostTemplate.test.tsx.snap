@@ -35,14 +35,14 @@ exports[`PostTemplate renders correctly 1`] = `
       </div>
       <div>
         <p>
-          Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.
+          Developer Relations Engineer, GraphQL at Postman
           <a
             href="https://www.twitter.com/#"
             rel="noopener noreferrer"
             target="_blank"
           >
             <strong>
-              John Doe
+              Meenakshi Dhanani
             </strong>
              on Twitter
           </a>
